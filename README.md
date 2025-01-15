@@ -6,8 +6,8 @@ We're actively looking for QA testers for [EmailWallet](https://emailwallet.org/
 
 To submit a QA report, create a pull request against the main branch of this repo with your completed QA report based on the following test checklists. 
 
-[EmailWalletQAGuide](https://emailwallet.org/)
+[EmailWalletGuide](https://emailwallet.org/)
 
-[AccountRecoveryQAGuide](https://recovery.zk.email/)
+[AccountRecoveryGuide](https://recovery.zk.email/)
 
-[RegistryQAGuide](https://registry.zk.email/)
+[RegistryGuide](https://registry.zk.email/)
