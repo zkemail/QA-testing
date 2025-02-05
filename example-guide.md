@@ -40,7 +40,7 @@ Display Details:
 
 💡 Frontend performance and rendering depend on the display size. We recommend sharing display details to help us better understand your current active screen.
 
-QA Testing
+## QA Testing
 1. Issue - The footer is not bottom-aligned with respect to the screen (frontend)
 [Take a screenshot]
 
